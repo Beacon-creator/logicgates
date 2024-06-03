@@ -1,0 +1,21 @@
+﻿<Page xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"  x:Class="LogicTrainer_App.Pages2.AboutPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:LogicTrainer_App.Pages2"
+      mc:Ignorable="d" 
+      d:DesignHeight="550" d:DesignWidth="900"
+      Title="AboutPage">
+
+    <Border>
+        <materialDesign:Card UniformCornerRadius="20"
+                             materialDesign:ScrollViewerAssist.SupportHorizontalScroll="True"
+                             Background="{DynamicResource PrimaryBackgroundColor}" Margin="25">
+            <TextBlock TextAlignment="Justify" FontSize="20" FontStyle="Italic" FontStretch="Expanded" FontWeight="Bold"
+                       VerticalAlignment="Center" Foreground="{DynamicResource PrimaryTextColor}"
+                      SelectiveScrollingGrid.SelectiveScrollingOrientation="Both" TextWrapping="Wrap" Margin="10,0,10,0" Height="378" Text="Welcome to Logic App!.. Delightfully, we introduce this desktop application created with the purpose of emulating some logic trainer features. The work was done to make logic gates testing more in handy and was done in partial fulfilment of obtaining first degree at LAUTECH, Ogbomoso and supervised by Prof. Mrs. A.O OKE. In a bid to make student have good understanding and implementation of logic gates related circuits, the project was proposed. We understand that your time is valuable, which is why we have made Logic App as efficient and effective as possible.  We believe that Logic App has the potential to transform the way you work or learn with Logic gates testing. Thank you!."/>
+
+        </materialDesign:Card>
+    </Border>
+</Page>

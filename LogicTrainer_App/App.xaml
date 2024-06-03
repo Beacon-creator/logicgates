@@ -1,0 +1,23 @@
+﻿<Application x:Class="LogicTrainer_App.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:LogicTrainer_App"
+             StartupUri="MainWindow.xaml"
+               xmlns:hc="https://handyorg.github.io/handycontrol">
+    <Application.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+
+                <!--<hc:ThemeResources/>
+                <hc:Theme/>-->
+                <ResourceDictionary Source="Themes/LightTheme.xaml"/>
+
+                <ResourceDictionary Source="Assets/Icons.xaml"/>
+
+                <ResourceDictionary Source="MyStyles/MainStyle.xaml"/>
+
+
+            </ResourceDictionary.MergedDictionaries>
+        </ResourceDictionary>
+    </Application.Resources>
+</Application>

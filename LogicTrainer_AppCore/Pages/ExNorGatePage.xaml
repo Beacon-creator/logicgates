@@ -1,0 +1,210 @@
+﻿<Page x:Class="LogicTrainer_App.Pages.ExNorGatePage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+       xmlns:MyControls="clr-namespace:LogicTrainer_App.MyControls"
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:LogicTrainer_App.Pages"
+      mc:Ignorable="d" 
+      d:DesignHeight="550" d:DesignWidth="900"
+      Title="ExNorGatePage">
+
+    <Border>
+        <Grid ShowGridLines="False" Background="{DynamicResource PrimaryBackgroundColor}">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="100"/>
+                <ColumnDefinition Width="100"/>
+                <ColumnDefinition Width="100"/>
+                <ColumnDefinition Width="100"/>
+                <ColumnDefinition Width="100"/>
+                <ColumnDefinition Width="100"/>
+                <ColumnDefinition Width="100"/>
+                <ColumnDefinition Width="100"/>
+                <ColumnDefinition Width="100"/>
+            </Grid.ColumnDefinitions>
+
+            <Grid.RowDefinitions>
+                <RowDefinition Height="100"/>
+                <RowDefinition Height="70"/>
+                <RowDefinition Height="100"/>
+                <RowDefinition Height="70"/>
+                <RowDefinition/>
+            </Grid.RowDefinitions>
+
+            <Grid Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="8" Grid.RowSpan="1">
+                <StackPanel Orientation="Vertical" HorizontalAlignment="Left" Height="60" VerticalAlignment="Top" Margin="0,10,0,0" Width="195">
+                    <Label Content="Select Switch 1" Foreground="{DynamicResource PrimaryTextColor}" HorizontalAlignment="Center"
+                       FontSize="15" FontWeight="ExtraBold"/>
+                    <ComboBox Width="80" x:Name="G1Switch" >
+                        <ComboBoxItem x:Name="G1Switch0" Content="Switch 0" Selected="G1Switch0_Selected" Unselected="G1Switch0_Unselected"/>
+                        <ComboBoxItem x:Name="G1Switch1" Content="Switch 1" Selected="G1Switch1_Selected" Unselected="G1Switch1_Unselected"/>
+                        <ComboBoxItem x:Name="G1Switch2" Content="Switch 2" Selected="G1Switch2_Selected" Unselected="G1Switch2_Unselected"/>
+                        <ComboBoxItem x:Name="G1Switch3" Content="Switch 3" Selected="G1Switch3_Selected" Unselected="G1Switch3_Unselected"/>
+                        <ComboBoxItem x:Name="G1Switch4" Content="Switch 4" Selected="G1Switch4_Selected" Unselected="G1Switch4_Unselected"/>
+                        <ComboBoxItem x:Name="G1Switch5" Content="Switch 5" Selected="G1Switch5_Selected" Unselected="G1Switch5_Unselected"/>
+                        <ComboBoxItem x:Name="G1Switch6" Content="Switch 6" Selected="G1Switch6_Selected" Unselected="G1Switch6_Unselected"/>
+                        <ComboBoxItem x:Name="G1Switch7" Content="Switch 7" Selected="G1Switch7_Selected" Unselected="G1Switch7_Unselected"/>
+                    </ComboBox>
+                </StackPanel>
+                <StackPanel Orientation="Vertical" HorizontalAlignment="Center" Height="60" VerticalAlignment="Top" Margin="0,10,0,0" Width="195">
+                    <Label Content="Select Switch 2" Foreground="{DynamicResource PrimaryTextColor}" HorizontalAlignment="Center"
+                       FontSize="15" FontWeight="ExtraBold"/>
+                    <ComboBox Width="80" x:Name="G2Switch">
+                        <ComboBoxItem x:Name="G2Switch0" Selected="G2Switch0_Selected" Content="Switch 0" Unselected="G2Switch0_Unselected"/>
+                        <ComboBoxItem x:Name="G2Switch1" Selected="G2Switch1_Selected" Content="Switch 1" Unselected="G2Switch1_Unselected"/>
+                        <ComboBoxItem x:Name="G2Switch2" Selected="G2Switch2_Selected" Content="Switch 2" Unselected="G2Switch2_Unselected" />
+                        <ComboBoxItem x:Name="G2Switch3" Selected="G2Switch3_Selected" Content="Switch 3" Unselected="G2Switch3_Unselected"/>
+                        <ComboBoxItem x:Name="G2Switch4" Selected="G2Switch4_Selected" Content="Switch 4" Unselected="G2Switch4_Unselected"/>
+                        <ComboBoxItem x:Name="G2Switch5" Selected="G2Switch5_Selected" Content="Switch 5" Unselected="G2Switch5_Unselected"/>
+                        <ComboBoxItem x:Name="G2Switch6" Selected="G2Switch6_Selected" Content="Switch 6" Unselected="G2Switch6_Unselected"/>
+                        <ComboBoxItem x:Name="G2Switch7" Selected="G2Switch7_Selected" Content="Switch 7" Unselected="G2Switch7_Unselected"/>
+                    </ComboBox>
+                </StackPanel>
+                <StackPanel Orientation="Vertical" HorizontalAlignment="Right" Height="60" VerticalAlignment="Top" Margin="0,10,0,0" Width="195">
+                    <Label Content="Select Output Led" Foreground="{DynamicResource PrimaryTextColor}"  HorizontalAlignment="Center"                       
+                       FontSize="15" FontWeight="ExtraBold"/>
+                    <ComboBox Width="80" x:Name="GoutLed" SelectedIndex="0" SelectionChanged="GoutLed_SelectionChanged">
+                        <ComboBoxItem x:Name="l0" Content="Led 0"/>
+                        <ComboBoxItem x:Name="l1" Content="Led 1"/>
+                        <ComboBoxItem x:Name="l2" Content="Led 2"/>
+                        <ComboBoxItem x:Name="l3" Content="Led 3"/>
+                        <ComboBoxItem x:Name="l4" Content="Led 4"/>
+                        <ComboBoxItem x:Name="l5" Content="Led 5"/>
+                        <ComboBoxItem x:Name="l6" Content="Led 6"/>
+                        <ComboBoxItem x:Name="l7" Content="Led 7"/>
+                    </ComboBox>
+                </StackPanel>
+            </Grid>
+            <Button x:Name="butExecuteXNor" Content="Execute"  
+                            Foreground="{DynamicResource PrimaryTextColor}" 
+                            FontWeight="Heavy" FontSize="16" Width="84" BorderThickness="2"
+                            Click="butExecuteXNor_Click" HorizontalAlignment="Left" Grid.Column="3" Grid.Row="2" Height="40"
+                             BorderBrush="{DynamicResource BorderBrushColor}" Background="{DynamicResource ProButtonColor}" Grid.ColumnSpan="2" Margin="56,27,0,0" VerticalAlignment="Top"/>
+
+
+            <Label Content="L0" FontSize="15" Grid.Column="0" HorizontalAlignment="Center" Grid.Row="2" VerticalAlignment="Top" Foreground="{DynamicResource PrimaryTextColor}" />
+            <Label Content="L1" FontSize="15" Grid.Column="1" HorizontalAlignment="Center" Grid.Row="2" VerticalAlignment="Top" Foreground="{DynamicResource PrimaryTextColor}"/>
+            <Label Content="L2" FontSize="15" Grid.Column="2" HorizontalAlignment="Center" Grid.Row="2" VerticalAlignment="Top" Foreground="{DynamicResource PrimaryTextColor}"/>
+            <Label Content="L3" FontSize="15" Grid.Column="3" HorizontalAlignment="Center" Grid.Row="2" VerticalAlignment="Top" Foreground="{DynamicResource PrimaryTextColor}"/>
+            <Label Content="L4" FontSize="15" Grid.Column="4" HorizontalAlignment="Center" Grid.Row="2" VerticalAlignment="Top" Foreground="{DynamicResource PrimaryTextColor}"/>
+            <Label Content="L5" FontSize="15" Grid.Column="5" HorizontalAlignment="Center" Grid.Row="2" VerticalAlignment="Top" Foreground="{DynamicResource PrimaryTextColor}"/>
+            <Label Content="L6" FontSize="15" Grid.Column="6" HorizontalAlignment="Center" Grid.Row="2" VerticalAlignment="Top" Foreground="{DynamicResource PrimaryTextColor}"/>
+            <Label Content="L7" FontSize="15" Grid.Column="7" HorizontalAlignment="Center" Grid.Row="2" VerticalAlignment="Top" Foreground="{DynamicResource PrimaryTextColor}"/>
+
+
+            <MyControls:LedsLight x:Name="light0"  Grid.Row="1" Grid.Column="0" />
+            <MyControls:LedsLight  x:Name="light1"  Grid.Row="1" Grid.Column="1"/>
+            <MyControls:LedsLight  x:Name="light2"  Grid.Row="1" Grid.Column="2"/>
+            <MyControls:LedsLight  x:Name="light3"  Grid.Row="1" Grid.Column="3"/>
+            <MyControls:LedsLight  x:Name="light4"   Grid.Row="1" Grid.Column="4"/>
+            <MyControls:LedsLight  x:Name="light5"   Grid.Row="1" Grid.Column="5"/>
+            <MyControls:LedsLight  x:Name="light6"   Grid.Row="1" Grid.Column="6"/>
+            <MyControls:LedsLight  x:Name="light7"   Grid.Row="1" Grid.Column="7"/>
+
+            <MyControls:GreenLedLight  x:Name="Glight0"  Grid.Row="1" Grid.Column="0"/>
+            <MyControls:GreenLedLight  x:Name="Glight1"  Grid.Row="1" Grid.Column="1"/>
+            <MyControls:GreenLedLight  x:Name="Glight2"  Grid.Row="1" Grid.Column="2"/>
+            <MyControls:GreenLedLight  x:Name="Glight3"  Grid.Row="1" Grid.Column="3"/>
+            <MyControls:GreenLedLight  x:Name="Glight4"  Grid.Row="1" Grid.Column="4"/>
+            <MyControls:GreenLedLight  x:Name="Glight5"  Grid.Row="1" Grid.Column="5"/>
+            <MyControls:GreenLedLight  x:Name="Glight6"  Grid.Row="1" Grid.Column="6"/>
+            <MyControls:GreenLedLight  x:Name="Glight7"  Grid.Row="1" Grid.Column="7"/>
+
+            <MyControls:RedLedLight  x:Name="Rlight0"  Grid.Row="1" Grid.Column="0" />
+            <MyControls:RedLedLight  x:Name="Rlight1"  Grid.Row="1" Grid.Column="1" />
+            <MyControls:RedLedLight  x:Name="Rlight2"  Grid.Row="1" Grid.Column="2" />
+            <MyControls:RedLedLight  x:Name="Rlight3"  Grid.Row="1" Grid.Column="3" />
+            <MyControls:RedLedLight  x:Name="Rlight4"  Grid.Row="1" Grid.Column="4" />
+            <MyControls:RedLedLight  x:Name="Rlight5"  Grid.Row="1" Grid.Column="5" />
+            <MyControls:RedLedLight  x:Name="Rlight6"  Grid.Row="1" Grid.Column="6" />
+            <MyControls:RedLedLight  x:Name="Rlight7"  Grid.Row="1" Grid.Column="7" />
+
+            <Label Content="S0" FontSize="15" Grid.Column="0" HorizontalAlignment="Center" Grid.Row="2" VerticalAlignment="Bottom" Foreground="{DynamicResource PrimaryTextColor}"/>
+            <Label Content="S1" FontSize="15" Grid.Column="1" HorizontalAlignment="Center" Grid.Row="2" VerticalAlignment="Bottom" Foreground="{DynamicResource PrimaryTextColor}"/>
+            <Label Content="S2" FontSize="15" Grid.Column="2" HorizontalAlignment="Center" Grid.Row="2" VerticalAlignment="Bottom" Foreground="{DynamicResource PrimaryTextColor}"/>
+            <Label Content="S3" FontSize="15" Grid.Column="3" HorizontalAlignment="Center" Grid.Row="2" VerticalAlignment="Bottom" Foreground="{DynamicResource PrimaryTextColor}"/>
+            <Label Content="S4" FontSize="15" Grid.Column="4" HorizontalAlignment="Center" Grid.Row="2" VerticalAlignment="Bottom" Foreground="{DynamicResource PrimaryTextColor}"/>
+            <Label Content="S5" FontSize="15" Grid.Column="5" HorizontalAlignment="Center" Grid.Row="2" VerticalAlignment="Bottom" Foreground="{DynamicResource PrimaryTextColor}"/>
+            <Label Content="S6" FontSize="15" Grid.Column="6" HorizontalAlignment="Center" Grid.Row="2" VerticalAlignment="Bottom" Foreground="{DynamicResource PrimaryTextColor}"/>
+            <Label Content="S7" FontSize="15" Grid.Column="7" HorizontalAlignment="Center" Grid.Row="2" VerticalAlignment="Bottom" Foreground="{DynamicResource PrimaryTextColor}"/>
+            <MyControls:Switches x:Name="inSwitch0" Grid.Row="3" Grid.Column="0" />
+            <MyControls:Switches x:Name="inSwitch1" Grid.Row="3" Grid.Column="1"/>
+            <MyControls:Switches x:Name="inSwitch2" Grid.Row="3" Grid.Column="2" />
+            <MyControls:Switches x:Name="inSwitch3" Grid.Row="3" Grid.Column="3"/>
+            <MyControls:Switches x:Name="inSwitch4" Grid.Row="3" Grid.Column="4" />
+            <MyControls:Switches x:Name="inSwitch5" Grid.Row="3" Grid.Column="5"/>
+            <MyControls:Switches x:Name="inSwitch6" Grid.Row="3" Grid.Column="6" />
+            <MyControls:Switches x:Name="inSwitch7" Grid.Row="3" Grid.Column="7"/>
+
+
+            <!--Second Control-->
+            <MyControls:Switches_2 x:Name="in2Switch0" Grid.Row="3" Grid.Column="0" />
+            <MyControls:Switches_2 x:Name="in2Switch1" Grid.Row="3" Grid.Column="1" />
+            <MyControls:Switches_2 x:Name="in2Switch2" Grid.Row="3" Grid.Column="2" />
+            <MyControls:Switches_2 x:Name="in2Switch3" Grid.Row="3" Grid.Column="3" />
+            <MyControls:Switches_2 x:Name="in2Switch4" Grid.Row="3" Grid.Column="4"  />
+            <MyControls:Switches_2 x:Name="in2Switch5" Grid.Row="3" Grid.Column="5"  />
+            <MyControls:Switches_2 x:Name="in2Switch6" Grid.Row="3" Grid.Column="6" />
+            <MyControls:Switches_2 x:Name="in2Switch7" Grid.Row="3" Grid.Column="7"  />
+
+
+
+            <Label Content="Truth Table" Grid.Column="1" Grid.Row="4" Grid.ColumnSpan="2"
+                    Foreground="{DynamicResource PrimaryTextColor}" Background="{DynamicResource PrimaryBackgroundColor}"
+                      FontSize="18" HorizontalAlignment="Center" Margin="-70,5,0,0" VerticalAlignment="Top"
+                      Height="40" FontWeight="Medium"/>
+
+            <ListView x:Name="selview" Height="150"
+                      HorizontalAlignment="Left" Grid.Column="0" Grid.ColumnSpan="4" Grid.Row="4" 
+                      Background="{DynamicResource PrimaryGrayColor}" Foreground="{DynamicResource PrimaryTextColor}" 
+                      ItemsSource="{Binding}" Margin="10,48,0,12">
+                <ListView.View>
+                    <GridView>
+                        <GridViewColumn x:Name="input1" Header="Input 1" Width="100">
+                            <GridViewColumn.CellTemplate>
+                                <DataTemplate>
+                                    <TextBlock Text="{Binding input1}" TextAlignment="Center"/>
+                                </DataTemplate>
+                            </GridViewColumn.CellTemplate>
+                        </GridViewColumn>
+                        <GridViewColumn x:Name="input2" Header="Input 2" Width="100">
+                            <GridViewColumn.CellTemplate>
+                                <DataTemplate>
+                                    <TextBlock Text="{Binding input2}" TextAlignment="Center"/>
+                                </DataTemplate>
+                            </GridViewColumn.CellTemplate>
+                        </GridViewColumn>
+                        <GridViewColumn x:Name="outp" Header="Output" Width="100">
+                            <GridViewColumn.CellTemplate>
+                                <DataTemplate>
+                                    <TextBlock Text="{Binding output}" TextAlignment="Center"/>
+                                </DataTemplate>
+                            </GridViewColumn.CellTemplate>
+                        </GridViewColumn>
+                        <GridViewColumn x:Name="stateword" Header="State" Width="100">
+                            <GridViewColumn.CellTemplate>
+                                <DataTemplate>
+                                    <TextBlock Text="{Binding outputword}" TextAlignment="Center"/>
+                                </DataTemplate>
+                            </GridViewColumn.CellTemplate>
+                        </GridViewColumn>
+
+                    </GridView>
+                </ListView.View>
+
+            </ListView>
+
+            <Button x:Name="ClearBut" Click="ClearBut_Click"
+                            HorizontalAlignment="Center" Content="Clear" FontSize="18" VerticalAlignment="Top"
+                          Grid.Column="4" Grid.Row="4"  Foreground="{DynamicResource PrimaryTextColor}"
+                     Background="{DynamicResource ProButtonColor}"
+                             VerticalContentAlignment="Center" Height="35" Width="70" Margin="0,163,0,0"/>
+            <Label HorizontalAlignment="Left" Content="EXNOR GATE" FontSize="18"
+                          Grid.Column="6" Grid.Row="4"  Foreground="{DynamicResource PrimaryTextColor}" 
+                             VerticalContentAlignment="Center" Height="36" Width="120" Margin="94,89,0,85" Grid.ColumnSpan="3"/>
+
+
+        </Grid>
+
+    </Border>
+</Page>

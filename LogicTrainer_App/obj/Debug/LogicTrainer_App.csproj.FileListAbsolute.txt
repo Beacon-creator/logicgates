@@ -1,0 +1,272 @@
+C:\Users\ASUS\Desktop\PROJECT LEADS\Desktop Apps\LogicTrainer_App\LogicTrainer_App\bin\Debug\LogicTrainer_App.exe.config
+C:\Users\ASUS\Desktop\PROJECT LEADS\Desktop Apps\LogicTrainer_App\LogicTrainer_App\bin\Debug\LogicTrainer_App.exe
+C:\Users\ASUS\Desktop\PROJECT LEADS\Desktop Apps\LogicTrainer_App\LogicTrainer_App\bin\Debug\LogicTrainer_App.pdb
+C:\Users\ASUS\Desktop\PROJECT LEADS\Desktop Apps\LogicTrainer_App\LogicTrainer_App\bin\Debug\HandyControl.dll
+C:\Users\ASUS\Desktop\PROJECT LEADS\Desktop Apps\LogicTrainer_App\LogicTrainer_App\bin\Debug\MaterialDesignColors.dll
+C:\Users\ASUS\Desktop\PROJECT LEADS\Desktop Apps\LogicTrainer_App\LogicTrainer_App\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\ASUS\Desktop\PROJECT LEADS\Desktop Apps\LogicTrainer_App\LogicTrainer_App\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\ASUS\Desktop\PROJECT LEADS\Desktop Apps\LogicTrainer_App\LogicTrainer_App\bin\Debug\HandyControl.pdb
+C:\Users\ASUS\Desktop\PROJECT LEADS\Desktop Apps\LogicTrainer_App\LogicTrainer_App\bin\Debug\HandyControl.xml
+C:\Users\ASUS\Desktop\PROJECT LEADS\Desktop Apps\LogicTrainer_App\LogicTrainer_App\bin\Debug\MaterialDesignColors.pdb
+C:\Users\ASUS\Desktop\PROJECT LEADS\Desktop Apps\LogicTrainer_App\LogicTrainer_App\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\ASUS\Desktop\PROJECT LEADS\Desktop Apps\LogicTrainer_App\LogicTrainer_App\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\ASUS\Desktop\PROJECT LEADS\Desktop Apps\LogicTrainer_App\LogicTrainer_App\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\ASUS\Desktop\PROJECT LEADS\Desktop Apps\LogicTrainer_App\LogicTrainer_App\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\ASUS\Desktop\PROJECT LEADS\Desktop Apps\LogicTrainer_App\LogicTrainer_App\obj\Debug\LogicTrainer_App.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\PROJECT LEADS\Desktop Apps\LogicTrainer_App\LogicTrainer_App\obj\Debug\LogicTrainer_App.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\Desktop\PROJECT LEADS\Desktop Apps\LogicTrainer_App\LogicTrainer_App\obj\Debug\Assets\Icons.baml
+C:\Users\ASUS\Desktop\PROJECT LEADS\Desktop Apps\LogicTrainer_App\LogicTrainer_App\obj\Debug\MyStyles\MainStyle.baml
+C:\Users\ASUS\Desktop\PROJECT LEADS\Desktop Apps\LogicTrainer_App\LogicTrainer_App\obj\Debug\Themes\DarkTheme.baml
+C:\Users\ASUS\Desktop\PROJECT LEADS\Desktop Apps\LogicTrainer_App\LogicTrainer_App\obj\Debug\Themes\LightTheme.baml
+C:\Users\ASUS\Desktop\PROJECT LEADS\Desktop Apps\LogicTrainer_App\LogicTrainer_App\obj\Debug\Controls\PopLeft.g.cs
+C:\Users\ASUS\Desktop\PROJECT LEADS\Desktop Apps\LogicTrainer_App\LogicTrainer_App\obj\Debug\Controls\PopRight.g.cs
+C:\Users\ASUS\Desktop\PROJECT LEADS\Desktop Apps\LogicTrainer_App\LogicTrainer_App\obj\Debug\Controls\UserPopup.g.cs
+C:\Users\ASUS\Desktop\PROJECT LEADS\Desktop Apps\LogicTrainer_App\LogicTrainer_App\obj\Debug\MainWindow.g.cs
+C:\Users\ASUS\Desktop\PROJECT LEADS\Desktop Apps\LogicTrainer_App\LogicTrainer_App\obj\Debug\MyControls\GreenLedLight.g.cs
+C:\Users\ASUS\Desktop\PROJECT LEADS\Desktop Apps\LogicTrainer_App\LogicTrainer_App\obj\Debug\MyControls\LedsLight.g.cs
+C:\Users\ASUS\Desktop\PROJECT LEADS\Desktop Apps\LogicTrainer_App\LogicTrainer_App\obj\Debug\MyControls\RedLedLight.g.cs
+C:\Users\ASUS\Desktop\PROJECT LEADS\Desktop Apps\LogicTrainer_App\LogicTrainer_App\obj\Debug\MyControls\Switches.g.cs
+C:\Users\ASUS\Desktop\PROJECT LEADS\Desktop Apps\LogicTrainer_App\LogicTrainer_App\obj\Debug\MyControls\Switches_2.g.cs
+C:\Users\ASUS\Desktop\PROJECT LEADS\Desktop Apps\LogicTrainer_App\LogicTrainer_App\obj\Debug\Pages2\HomePage.g.cs
+C:\Users\ASUS\Desktop\PROJECT LEADS\Desktop Apps\LogicTrainer_App\LogicTrainer_App\obj\Debug\Pages\AndGatePage.g.cs
+C:\Users\ASUS\Desktop\PROJECT LEADS\Desktop Apps\LogicTrainer_App\LogicTrainer_App\obj\Debug\Pages\NandGatePage.g.cs
+C:\Users\ASUS\Desktop\PROJECT LEADS\Desktop Apps\LogicTrainer_App\LogicTrainer_App\obj\Debug\Pages\NorGatePage.g.cs
+C:\Users\ASUS\Desktop\PROJECT LEADS\Desktop Apps\LogicTrainer_App\LogicTrainer_App\obj\Debug\Pages\NotGatePage.g.cs
+C:\Users\ASUS\Desktop\PROJECT LEADS\Desktop Apps\LogicTrainer_App\LogicTrainer_App\obj\Debug\Pages\OrGatePage.g.cs
+C:\Users\ASUS\Desktop\PROJECT LEADS\Desktop Apps\LogicTrainer_App\LogicTrainer_App\obj\Debug\App.g.cs
+C:\Users\ASUS\Desktop\PROJECT LEADS\Desktop Apps\LogicTrainer_App\LogicTrainer_App\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\ASUS\Desktop\PROJECT LEADS\Desktop Apps\LogicTrainer_App\LogicTrainer_App\obj\Debug\LogicTrainer_App_MarkupCompile.cache
+C:\Users\ASUS\Desktop\PROJECT LEADS\Desktop Apps\LogicTrainer_App\LogicTrainer_App\obj\Debug\LogicTrainer_App_MarkupCompile.lref
+C:\Users\ASUS\Desktop\PROJECT LEADS\Desktop Apps\LogicTrainer_App\LogicTrainer_App\obj\Debug\App.baml
+C:\Users\ASUS\Desktop\PROJECT LEADS\Desktop Apps\LogicTrainer_App\LogicTrainer_App\obj\Debug\Controls\PopLeft.baml
+C:\Users\ASUS\Desktop\PROJECT LEADS\Desktop Apps\LogicTrainer_App\LogicTrainer_App\obj\Debug\Controls\PopRight.baml
+C:\Users\ASUS\Desktop\PROJECT LEADS\Desktop Apps\LogicTrainer_App\LogicTrainer_App\obj\Debug\Controls\UserPopup.baml
+C:\Users\ASUS\Desktop\PROJECT LEADS\Desktop Apps\LogicTrainer_App\LogicTrainer_App\obj\Debug\MainWindow.baml
+C:\Users\ASUS\Desktop\PROJECT LEADS\Desktop Apps\LogicTrainer_App\LogicTrainer_App\obj\Debug\MyControls\GreenLedLight.baml
+C:\Users\ASUS\Desktop\PROJECT LEADS\Desktop Apps\LogicTrainer_App\LogicTrainer_App\obj\Debug\MyControls\LedsLight.baml
+C:\Users\ASUS\Desktop\PROJECT LEADS\Desktop Apps\LogicTrainer_App\LogicTrainer_App\obj\Debug\MyControls\RedLedLight.baml
+C:\Users\ASUS\Desktop\PROJECT LEADS\Desktop Apps\LogicTrainer_App\LogicTrainer_App\obj\Debug\MyControls\Switches.baml
+C:\Users\ASUS\Desktop\PROJECT LEADS\Desktop Apps\LogicTrainer_App\LogicTrainer_App\obj\Debug\MyControls\Switches_2.baml
+C:\Users\ASUS\Desktop\PROJECT LEADS\Desktop Apps\LogicTrainer_App\LogicTrainer_App\obj\Debug\Pages2\HomePage.baml
+C:\Users\ASUS\Desktop\PROJECT LEADS\Desktop Apps\LogicTrainer_App\LogicTrainer_App\obj\Debug\Pages\AndGatePage.baml
+C:\Users\ASUS\Desktop\PROJECT LEADS\Desktop Apps\LogicTrainer_App\LogicTrainer_App\obj\Debug\Pages\NandGatePage.baml
+C:\Users\ASUS\Desktop\PROJECT LEADS\Desktop Apps\LogicTrainer_App\LogicTrainer_App\obj\Debug\Pages\NorGatePage.baml
+C:\Users\ASUS\Desktop\PROJECT LEADS\Desktop Apps\LogicTrainer_App\LogicTrainer_App\obj\Debug\Pages\NotGatePage.baml
+C:\Users\ASUS\Desktop\PROJECT LEADS\Desktop Apps\LogicTrainer_App\LogicTrainer_App\obj\Debug\Pages\OrGatePage.baml
+C:\Users\ASUS\Desktop\PROJECT LEADS\Desktop Apps\LogicTrainer_App\LogicTrainer_App\obj\Debug\LogicTrainer_App.g.resources
+C:\Users\ASUS\Desktop\PROJECT LEADS\Desktop Apps\LogicTrainer_App\LogicTrainer_App\obj\Debug\LogicTrainer_App.Properties.Resources.resources
+C:\Users\ASUS\Desktop\PROJECT LEADS\Desktop Apps\LogicTrainer_App\LogicTrainer_App\obj\Debug\LogicTrainer_App.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\PROJECT LEADS\Desktop Apps\LogicTrainer_App\LogicTrainer_App\obj\Debug\LogicTrainer_App.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\PROJECT LEADS\Desktop Apps\LogicTrainer_App\LogicTrainer_App\obj\Debug\LogicTrainer_App.csproj.CopyComplete
+C:\Users\ASUS\Desktop\PROJECT LEADS\Desktop Apps\LogicTrainer_App\LogicTrainer_App\obj\Debug\LogicTrainer_App.exe
+C:\Users\ASUS\Desktop\PROJECT LEADS\Desktop Apps\LogicTrainer_App\LogicTrainer_App\obj\Debug\LogicTrainer_App.pdb
+C:\Users\ASUS\Desktop\PROJECT LEADS\Desktop Apps\LogicTrainer_App\LogicTrainer_App\obj\Debug\Pages2\AboutPage.g.cs
+C:\Users\ASUS\Desktop\PROJECT LEADS\Desktop Apps\LogicTrainer_App\LogicTrainer_App\obj\Debug\Pages2\AboutPage.baml
+C:\Users\ASUS\Desktop\PROJECT LEADS\Desktop Apps\LogicTrainer_App\LogicTrainer_App\obj\Debug\Pages\ExOrGatePage.g.cs
+C:\Users\ASUS\Desktop\PROJECT LEADS\Desktop Apps\LogicTrainer_App\LogicTrainer_App\obj\Debug\Pages\ExOrGatePage.baml
+C:\Users\ASUS\Desktop\PROJECT LEADS\Desktop Apps\LogicTrainer_App\LogicTrainer_App\obj\Debug\Pages\ExNorGatePage.g.cs
+C:\Users\ASUS\Desktop\PROJECT LEADS\Desktop Apps\LogicTrainer_App\LogicTrainer_App\obj\Debug\Pages\ExNorGatePage.baml
+C:\Users\ASUS\Desktop\PROJECT LEADS\Desktop Apps\LogicTrainer_App\LogicTrainer_App\bin\Debug\LogicTrainer_App.exe.manifest
+C:\Users\ASUS\Desktop\PROJECT LEADS\Desktop Apps\LogicTrainer_App\LogicTrainer_App\bin\Debug\LogicTrainer_App.application
+C:\Users\ASUS\Desktop\PROJECT LEADS\Desktop Apps\LogicTrainer_App\LogicTrainer_App\obj\Debug\LogicTrainer_App.TrustInfo.xml
+C:\Users\ASUS\Desktop\PROJECT LEADS\Desktop Apps\LogicTrainer_App\LogicTrainer_App\obj\Debug\LogicTrainer_App.exe.manifest
+C:\Users\ASUS\Desktop\PROJECT LEADS\Desktop Apps\LogicTrainer_App\LogicTrainer_App\obj\Debug\LogicTrainer_App.application
+C:\Users\ASUS\Desktop\new\PROJECT LEADS\Desktop Apps\LogicTrainer_App\LogicTrainer_App\bin\Debug\LogicTrainer_App.exe.config
+C:\Users\ASUS\Desktop\new\PROJECT LEADS\Desktop Apps\LogicTrainer_App\LogicTrainer_App\bin\Debug\LogicTrainer_App.exe.manifest
+C:\Users\ASUS\Desktop\new\PROJECT LEADS\Desktop Apps\LogicTrainer_App\LogicTrainer_App\bin\Debug\LogicTrainer_App.application
+C:\Users\ASUS\Desktop\new\PROJECT LEADS\Desktop Apps\LogicTrainer_App\LogicTrainer_App\bin\Debug\LogicTrainer_App.exe
+C:\Users\ASUS\Desktop\new\PROJECT LEADS\Desktop Apps\LogicTrainer_App\LogicTrainer_App\bin\Debug\LogicTrainer_App.pdb
+C:\Users\ASUS\Desktop\new\PROJECT LEADS\Desktop Apps\LogicTrainer_App\LogicTrainer_App\bin\Debug\HandyControl.dll
+C:\Users\ASUS\Desktop\new\PROJECT LEADS\Desktop Apps\LogicTrainer_App\LogicTrainer_App\bin\Debug\MaterialDesignColors.dll
+C:\Users\ASUS\Desktop\new\PROJECT LEADS\Desktop Apps\LogicTrainer_App\LogicTrainer_App\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\ASUS\Desktop\new\PROJECT LEADS\Desktop Apps\LogicTrainer_App\LogicTrainer_App\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\ASUS\Desktop\new\PROJECT LEADS\Desktop Apps\LogicTrainer_App\LogicTrainer_App\bin\Debug\HandyControl.pdb
+C:\Users\ASUS\Desktop\new\PROJECT LEADS\Desktop Apps\LogicTrainer_App\LogicTrainer_App\bin\Debug\HandyControl.xml
+C:\Users\ASUS\Desktop\new\PROJECT LEADS\Desktop Apps\LogicTrainer_App\LogicTrainer_App\bin\Debug\MaterialDesignColors.pdb
+C:\Users\ASUS\Desktop\new\PROJECT LEADS\Desktop Apps\LogicTrainer_App\LogicTrainer_App\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\ASUS\Desktop\new\PROJECT LEADS\Desktop Apps\LogicTrainer_App\LogicTrainer_App\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\ASUS\Desktop\new\PROJECT LEADS\Desktop Apps\LogicTrainer_App\LogicTrainer_App\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\ASUS\Desktop\new\PROJECT LEADS\Desktop Apps\LogicTrainer_App\LogicTrainer_App\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\ASUS\Desktop\new\PROJECT LEADS\Desktop Apps\LogicTrainer_App\LogicTrainer_App\obj\Debug\LogicTrainer_App.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\new\PROJECT LEADS\Desktop Apps\LogicTrainer_App\LogicTrainer_App\obj\Debug\LogicTrainer_App.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\Desktop\new\PROJECT LEADS\Desktop Apps\LogicTrainer_App\LogicTrainer_App\obj\Debug\Assets\Icons.baml
+C:\Users\ASUS\Desktop\new\PROJECT LEADS\Desktop Apps\LogicTrainer_App\LogicTrainer_App\obj\Debug\MyStyles\MainStyle.baml
+C:\Users\ASUS\Desktop\new\PROJECT LEADS\Desktop Apps\LogicTrainer_App\LogicTrainer_App\obj\Debug\Themes\DarkTheme.baml
+C:\Users\ASUS\Desktop\new\PROJECT LEADS\Desktop Apps\LogicTrainer_App\LogicTrainer_App\obj\Debug\Themes\LightTheme.baml
+C:\Users\ASUS\Desktop\new\PROJECT LEADS\Desktop Apps\LogicTrainer_App\LogicTrainer_App\obj\Debug\Controls\PopLeft.g.cs
+C:\Users\ASUS\Desktop\new\PROJECT LEADS\Desktop Apps\LogicTrainer_App\LogicTrainer_App\obj\Debug\Controls\PopRight.g.cs
+C:\Users\ASUS\Desktop\new\PROJECT LEADS\Desktop Apps\LogicTrainer_App\LogicTrainer_App\obj\Debug\Controls\UserPopup.g.cs
+C:\Users\ASUS\Desktop\new\PROJECT LEADS\Desktop Apps\LogicTrainer_App\LogicTrainer_App\obj\Debug\MainWindow.g.cs
+C:\Users\ASUS\Desktop\new\PROJECT LEADS\Desktop Apps\LogicTrainer_App\LogicTrainer_App\obj\Debug\MyControls\GreenLedLight.g.cs
+C:\Users\ASUS\Desktop\new\PROJECT LEADS\Desktop Apps\LogicTrainer_App\LogicTrainer_App\obj\Debug\MyControls\LedsLight.g.cs
+C:\Users\ASUS\Desktop\new\PROJECT LEADS\Desktop Apps\LogicTrainer_App\LogicTrainer_App\obj\Debug\MyControls\RedLedLight.g.cs
+C:\Users\ASUS\Desktop\new\PROJECT LEADS\Desktop Apps\LogicTrainer_App\LogicTrainer_App\obj\Debug\MyControls\Switches.g.cs
+C:\Users\ASUS\Desktop\new\PROJECT LEADS\Desktop Apps\LogicTrainer_App\LogicTrainer_App\obj\Debug\MyControls\Switches_2.g.cs
+C:\Users\ASUS\Desktop\new\PROJECT LEADS\Desktop Apps\LogicTrainer_App\LogicTrainer_App\obj\Debug\Pages2\AboutPage.g.cs
+C:\Users\ASUS\Desktop\new\PROJECT LEADS\Desktop Apps\LogicTrainer_App\LogicTrainer_App\obj\Debug\Pages2\HomePage.g.cs
+C:\Users\ASUS\Desktop\new\PROJECT LEADS\Desktop Apps\LogicTrainer_App\LogicTrainer_App\obj\Debug\Pages\AndGatePage.g.cs
+C:\Users\ASUS\Desktop\new\PROJECT LEADS\Desktop Apps\LogicTrainer_App\LogicTrainer_App\obj\Debug\Pages\ExNorGatePage.g.cs
+C:\Users\ASUS\Desktop\new\PROJECT LEADS\Desktop Apps\LogicTrainer_App\LogicTrainer_App\obj\Debug\Pages\ExOrGatePage.g.cs
+C:\Users\ASUS\Desktop\new\PROJECT LEADS\Desktop Apps\LogicTrainer_App\LogicTrainer_App\obj\Debug\Pages\NandGatePage.g.cs
+C:\Users\ASUS\Desktop\new\PROJECT LEADS\Desktop Apps\LogicTrainer_App\LogicTrainer_App\obj\Debug\Pages\NorGatePage.g.cs
+C:\Users\ASUS\Desktop\new\PROJECT LEADS\Desktop Apps\LogicTrainer_App\LogicTrainer_App\obj\Debug\Pages\NotGatePage.g.cs
+C:\Users\ASUS\Desktop\new\PROJECT LEADS\Desktop Apps\LogicTrainer_App\LogicTrainer_App\obj\Debug\Pages\OrGatePage.g.cs
+C:\Users\ASUS\Desktop\new\PROJECT LEADS\Desktop Apps\LogicTrainer_App\LogicTrainer_App\obj\Debug\App.g.cs
+C:\Users\ASUS\Desktop\new\PROJECT LEADS\Desktop Apps\LogicTrainer_App\LogicTrainer_App\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\ASUS\Desktop\new\PROJECT LEADS\Desktop Apps\LogicTrainer_App\LogicTrainer_App\obj\Debug\LogicTrainer_App_MarkupCompile.cache
+C:\Users\ASUS\Desktop\new\PROJECT LEADS\Desktop Apps\LogicTrainer_App\LogicTrainer_App\obj\Debug\LogicTrainer_App_MarkupCompile.lref
+C:\Users\ASUS\Desktop\new\PROJECT LEADS\Desktop Apps\LogicTrainer_App\LogicTrainer_App\obj\Debug\App.baml
+C:\Users\ASUS\Desktop\new\PROJECT LEADS\Desktop Apps\LogicTrainer_App\LogicTrainer_App\obj\Debug\Controls\PopLeft.baml
+C:\Users\ASUS\Desktop\new\PROJECT LEADS\Desktop Apps\LogicTrainer_App\LogicTrainer_App\obj\Debug\Controls\PopRight.baml
+C:\Users\ASUS\Desktop\new\PROJECT LEADS\Desktop Apps\LogicTrainer_App\LogicTrainer_App\obj\Debug\Controls\UserPopup.baml
+C:\Users\ASUS\Desktop\new\PROJECT LEADS\Desktop Apps\LogicTrainer_App\LogicTrainer_App\obj\Debug\MainWindow.baml
+C:\Users\ASUS\Desktop\new\PROJECT LEADS\Desktop Apps\LogicTrainer_App\LogicTrainer_App\obj\Debug\MyControls\GreenLedLight.baml
+C:\Users\ASUS\Desktop\new\PROJECT LEADS\Desktop Apps\LogicTrainer_App\LogicTrainer_App\obj\Debug\MyControls\LedsLight.baml
+C:\Users\ASUS\Desktop\new\PROJECT LEADS\Desktop Apps\LogicTrainer_App\LogicTrainer_App\obj\Debug\MyControls\RedLedLight.baml
+C:\Users\ASUS\Desktop\new\PROJECT LEADS\Desktop Apps\LogicTrainer_App\LogicTrainer_App\obj\Debug\MyControls\Switches.baml
+C:\Users\ASUS\Desktop\new\PROJECT LEADS\Desktop Apps\LogicTrainer_App\LogicTrainer_App\obj\Debug\MyControls\Switches_2.baml
+C:\Users\ASUS\Desktop\new\PROJECT LEADS\Desktop Apps\LogicTrainer_App\LogicTrainer_App\obj\Debug\Pages2\AboutPage.baml
+C:\Users\ASUS\Desktop\new\PROJECT LEADS\Desktop Apps\LogicTrainer_App\LogicTrainer_App\obj\Debug\Pages2\HomePage.baml
+C:\Users\ASUS\Desktop\new\PROJECT LEADS\Desktop Apps\LogicTrainer_App\LogicTrainer_App\obj\Debug\Pages\AndGatePage.baml
+C:\Users\ASUS\Desktop\new\PROJECT LEADS\Desktop Apps\LogicTrainer_App\LogicTrainer_App\obj\Debug\Pages\ExNorGatePage.baml
+C:\Users\ASUS\Desktop\new\PROJECT LEADS\Desktop Apps\LogicTrainer_App\LogicTrainer_App\obj\Debug\Pages\ExOrGatePage.baml
+C:\Users\ASUS\Desktop\new\PROJECT LEADS\Desktop Apps\LogicTrainer_App\LogicTrainer_App\obj\Debug\Pages\NandGatePage.baml
+C:\Users\ASUS\Desktop\new\PROJECT LEADS\Desktop Apps\LogicTrainer_App\LogicTrainer_App\obj\Debug\Pages\NorGatePage.baml
+C:\Users\ASUS\Desktop\new\PROJECT LEADS\Desktop Apps\LogicTrainer_App\LogicTrainer_App\obj\Debug\Pages\NotGatePage.baml
+C:\Users\ASUS\Desktop\new\PROJECT LEADS\Desktop Apps\LogicTrainer_App\LogicTrainer_App\obj\Debug\Pages\OrGatePage.baml
+C:\Users\ASUS\Desktop\new\PROJECT LEADS\Desktop Apps\LogicTrainer_App\LogicTrainer_App\obj\Debug\LogicTrainer_App.g.resources
+C:\Users\ASUS\Desktop\new\PROJECT LEADS\Desktop Apps\LogicTrainer_App\LogicTrainer_App\obj\Debug\LogicTrainer_App.Properties.Resources.resources
+C:\Users\ASUS\Desktop\new\PROJECT LEADS\Desktop Apps\LogicTrainer_App\LogicTrainer_App\obj\Debug\LogicTrainer_App.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\new\PROJECT LEADS\Desktop Apps\LogicTrainer_App\LogicTrainer_App\obj\Debug\LogicTrainer_App.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\new\PROJECT LEADS\Desktop Apps\LogicTrainer_App\LogicTrainer_App\obj\Debug\LogicTrainer_App.TrustInfo.xml
+C:\Users\ASUS\Desktop\new\PROJECT LEADS\Desktop Apps\LogicTrainer_App\LogicTrainer_App\obj\Debug\LogicTrainer_App.exe.manifest
+C:\Users\ASUS\Desktop\new\PROJECT LEADS\Desktop Apps\LogicTrainer_App\LogicTrainer_App\obj\Debug\LogicTrainer_App.application
+C:\Users\ASUS\Desktop\new\PROJECT LEADS\Desktop Apps\LogicTrainer_App\LogicTrainer_App\obj\Debug\LogicTrainer_App.csproj.CopyComplete
+C:\Users\ASUS\Desktop\new\PROJECT LEADS\Desktop Apps\LogicTrainer_App\LogicTrainer_App\obj\Debug\LogicTrainer_App.exe
+C:\Users\ASUS\Desktop\new\PROJECT LEADS\Desktop Apps\LogicTrainer_App\LogicTrainer_App\obj\Debug\LogicTrainer_App.pdb
+C:\Users\ASUS\Documents\MY  FILES\SCHOOL FILES\new\PROJECT LEADS\Desktop Apps\LogicTrainer_App\LogicTrainer_App\bin\Debug\LogicTrainer_App.exe.config
+C:\Users\ASUS\Documents\MY  FILES\SCHOOL FILES\new\PROJECT LEADS\Desktop Apps\LogicTrainer_App\LogicTrainer_App\bin\Debug\LogicTrainer_App.exe.manifest
+C:\Users\ASUS\Documents\MY  FILES\SCHOOL FILES\new\PROJECT LEADS\Desktop Apps\LogicTrainer_App\LogicTrainer_App\bin\Debug\LogicTrainer_App.application
+C:\Users\ASUS\Documents\MY  FILES\SCHOOL FILES\new\PROJECT LEADS\Desktop Apps\LogicTrainer_App\LogicTrainer_App\bin\Debug\LogicTrainer_App.exe
+C:\Users\ASUS\Documents\MY  FILES\SCHOOL FILES\new\PROJECT LEADS\Desktop Apps\LogicTrainer_App\LogicTrainer_App\bin\Debug\LogicTrainer_App.pdb
+C:\Users\ASUS\Documents\MY  FILES\SCHOOL FILES\new\PROJECT LEADS\Desktop Apps\LogicTrainer_App\LogicTrainer_App\bin\Debug\HandyControl.dll
+C:\Users\ASUS\Documents\MY  FILES\SCHOOL FILES\new\PROJECT LEADS\Desktop Apps\LogicTrainer_App\LogicTrainer_App\bin\Debug\MaterialDesignColors.dll
+C:\Users\ASUS\Documents\MY  FILES\SCHOOL FILES\new\PROJECT LEADS\Desktop Apps\LogicTrainer_App\LogicTrainer_App\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\ASUS\Documents\MY  FILES\SCHOOL FILES\new\PROJECT LEADS\Desktop Apps\LogicTrainer_App\LogicTrainer_App\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\ASUS\Documents\MY  FILES\SCHOOL FILES\new\PROJECT LEADS\Desktop Apps\LogicTrainer_App\LogicTrainer_App\bin\Debug\HandyControl.pdb
+C:\Users\ASUS\Documents\MY  FILES\SCHOOL FILES\new\PROJECT LEADS\Desktop Apps\LogicTrainer_App\LogicTrainer_App\bin\Debug\HandyControl.xml
+C:\Users\ASUS\Documents\MY  FILES\SCHOOL FILES\new\PROJECT LEADS\Desktop Apps\LogicTrainer_App\LogicTrainer_App\bin\Debug\MaterialDesignColors.pdb
+C:\Users\ASUS\Documents\MY  FILES\SCHOOL FILES\new\PROJECT LEADS\Desktop Apps\LogicTrainer_App\LogicTrainer_App\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\ASUS\Documents\MY  FILES\SCHOOL FILES\new\PROJECT LEADS\Desktop Apps\LogicTrainer_App\LogicTrainer_App\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\ASUS\Documents\MY  FILES\SCHOOL FILES\new\PROJECT LEADS\Desktop Apps\LogicTrainer_App\LogicTrainer_App\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\ASUS\Documents\MY  FILES\SCHOOL FILES\new\PROJECT LEADS\Desktop Apps\LogicTrainer_App\LogicTrainer_App\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\ASUS\Documents\MY  FILES\SCHOOL FILES\new\PROJECT LEADS\Desktop Apps\LogicTrainer_App\LogicTrainer_App\obj\Debug\LogicTrainer_App.csproj.AssemblyReference.cache
+C:\Users\ASUS\Documents\MY  FILES\SCHOOL FILES\new\PROJECT LEADS\Desktop Apps\LogicTrainer_App\LogicTrainer_App\obj\Debug\LogicTrainer_App.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\Documents\MY  FILES\SCHOOL FILES\new\PROJECT LEADS\Desktop Apps\LogicTrainer_App\LogicTrainer_App\obj\Debug\Assets\Icons.baml
+C:\Users\ASUS\Documents\MY  FILES\SCHOOL FILES\new\PROJECT LEADS\Desktop Apps\LogicTrainer_App\LogicTrainer_App\obj\Debug\MyStyles\MainStyle.baml
+C:\Users\ASUS\Documents\MY  FILES\SCHOOL FILES\new\PROJECT LEADS\Desktop Apps\LogicTrainer_App\LogicTrainer_App\obj\Debug\Themes\DarkTheme.baml
+C:\Users\ASUS\Documents\MY  FILES\SCHOOL FILES\new\PROJECT LEADS\Desktop Apps\LogicTrainer_App\LogicTrainer_App\obj\Debug\Themes\LightTheme.baml
+C:\Users\ASUS\Documents\MY  FILES\SCHOOL FILES\new\PROJECT LEADS\Desktop Apps\LogicTrainer_App\LogicTrainer_App\obj\Debug\Controls\PopLeft.g.cs
+C:\Users\ASUS\Documents\MY  FILES\SCHOOL FILES\new\PROJECT LEADS\Desktop Apps\LogicTrainer_App\LogicTrainer_App\obj\Debug\Controls\PopRight.g.cs
+C:\Users\ASUS\Documents\MY  FILES\SCHOOL FILES\new\PROJECT LEADS\Desktop Apps\LogicTrainer_App\LogicTrainer_App\obj\Debug\Controls\UserPopup.g.cs
+C:\Users\ASUS\Documents\MY  FILES\SCHOOL FILES\new\PROJECT LEADS\Desktop Apps\LogicTrainer_App\LogicTrainer_App\obj\Debug\MainWindow.g.cs
+C:\Users\ASUS\Documents\MY  FILES\SCHOOL FILES\new\PROJECT LEADS\Desktop Apps\LogicTrainer_App\LogicTrainer_App\obj\Debug\MyControls\GreenLedLight.g.cs
+C:\Users\ASUS\Documents\MY  FILES\SCHOOL FILES\new\PROJECT LEADS\Desktop Apps\LogicTrainer_App\LogicTrainer_App\obj\Debug\MyControls\LedsLight.g.cs
+C:\Users\ASUS\Documents\MY  FILES\SCHOOL FILES\new\PROJECT LEADS\Desktop Apps\LogicTrainer_App\LogicTrainer_App\obj\Debug\MyControls\RedLedLight.g.cs
+C:\Users\ASUS\Documents\MY  FILES\SCHOOL FILES\new\PROJECT LEADS\Desktop Apps\LogicTrainer_App\LogicTrainer_App\obj\Debug\MyControls\Switches.g.cs
+C:\Users\ASUS\Documents\MY  FILES\SCHOOL FILES\new\PROJECT LEADS\Desktop Apps\LogicTrainer_App\LogicTrainer_App\obj\Debug\MyControls\Switches_2.g.cs
+C:\Users\ASUS\Documents\MY  FILES\SCHOOL FILES\new\PROJECT LEADS\Desktop Apps\LogicTrainer_App\LogicTrainer_App\obj\Debug\Pages2\AboutPage.g.cs
+C:\Users\ASUS\Documents\MY  FILES\SCHOOL FILES\new\PROJECT LEADS\Desktop Apps\LogicTrainer_App\LogicTrainer_App\obj\Debug\Pages2\HomePage.g.cs
+C:\Users\ASUS\Documents\MY  FILES\SCHOOL FILES\new\PROJECT LEADS\Desktop Apps\LogicTrainer_App\LogicTrainer_App\obj\Debug\Pages\AndGatePage.g.cs
+C:\Users\ASUS\Documents\MY  FILES\SCHOOL FILES\new\PROJECT LEADS\Desktop Apps\LogicTrainer_App\LogicTrainer_App\obj\Debug\Pages\ExNorGatePage.g.cs
+C:\Users\ASUS\Documents\MY  FILES\SCHOOL FILES\new\PROJECT LEADS\Desktop Apps\LogicTrainer_App\LogicTrainer_App\obj\Debug\Pages\ExOrGatePage.g.cs
+C:\Users\ASUS\Documents\MY  FILES\SCHOOL FILES\new\PROJECT LEADS\Desktop Apps\LogicTrainer_App\LogicTrainer_App\obj\Debug\Pages\NandGatePage.g.cs
+C:\Users\ASUS\Documents\MY  FILES\SCHOOL FILES\new\PROJECT LEADS\Desktop Apps\LogicTrainer_App\LogicTrainer_App\obj\Debug\Pages\NorGatePage.g.cs
+C:\Users\ASUS\Documents\MY  FILES\SCHOOL FILES\new\PROJECT LEADS\Desktop Apps\LogicTrainer_App\LogicTrainer_App\obj\Debug\Pages\NotGatePage.g.cs
+C:\Users\ASUS\Documents\MY  FILES\SCHOOL FILES\new\PROJECT LEADS\Desktop Apps\LogicTrainer_App\LogicTrainer_App\obj\Debug\Pages\OrGatePage.g.cs
+C:\Users\ASUS\Documents\MY  FILES\SCHOOL FILES\new\PROJECT LEADS\Desktop Apps\LogicTrainer_App\LogicTrainer_App\obj\Debug\App.g.cs
+C:\Users\ASUS\Documents\MY  FILES\SCHOOL FILES\new\PROJECT LEADS\Desktop Apps\LogicTrainer_App\LogicTrainer_App\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\ASUS\Documents\MY  FILES\SCHOOL FILES\new\PROJECT LEADS\Desktop Apps\LogicTrainer_App\LogicTrainer_App\obj\Debug\LogicTrainer_App_MarkupCompile.cache
+C:\Users\ASUS\Documents\MY  FILES\SCHOOL FILES\new\PROJECT LEADS\Desktop Apps\LogicTrainer_App\LogicTrainer_App\obj\Debug\LogicTrainer_App_MarkupCompile.lref
+C:\Users\ASUS\Documents\MY  FILES\SCHOOL FILES\new\PROJECT LEADS\Desktop Apps\LogicTrainer_App\LogicTrainer_App\obj\Debug\App.baml
+C:\Users\ASUS\Documents\MY  FILES\SCHOOL FILES\new\PROJECT LEADS\Desktop Apps\LogicTrainer_App\LogicTrainer_App\obj\Debug\Controls\PopLeft.baml
+C:\Users\ASUS\Documents\MY  FILES\SCHOOL FILES\new\PROJECT LEADS\Desktop Apps\LogicTrainer_App\LogicTrainer_App\obj\Debug\Controls\PopRight.baml
+C:\Users\ASUS\Documents\MY  FILES\SCHOOL FILES\new\PROJECT LEADS\Desktop Apps\LogicTrainer_App\LogicTrainer_App\obj\Debug\Controls\UserPopup.baml
+C:\Users\ASUS\Documents\MY  FILES\SCHOOL FILES\new\PROJECT LEADS\Desktop Apps\LogicTrainer_App\LogicTrainer_App\obj\Debug\MainWindow.baml
+C:\Users\ASUS\Documents\MY  FILES\SCHOOL FILES\new\PROJECT LEADS\Desktop Apps\LogicTrainer_App\LogicTrainer_App\obj\Debug\MyControls\GreenLedLight.baml
+C:\Users\ASUS\Documents\MY  FILES\SCHOOL FILES\new\PROJECT LEADS\Desktop Apps\LogicTrainer_App\LogicTrainer_App\obj\Debug\MyControls\LedsLight.baml
+C:\Users\ASUS\Documents\MY  FILES\SCHOOL FILES\new\PROJECT LEADS\Desktop Apps\LogicTrainer_App\LogicTrainer_App\obj\Debug\MyControls\RedLedLight.baml
+C:\Users\ASUS\Documents\MY  FILES\SCHOOL FILES\new\PROJECT LEADS\Desktop Apps\LogicTrainer_App\LogicTrainer_App\obj\Debug\MyControls\Switches.baml
+C:\Users\ASUS\Documents\MY  FILES\SCHOOL FILES\new\PROJECT LEADS\Desktop Apps\LogicTrainer_App\LogicTrainer_App\obj\Debug\MyControls\Switches_2.baml
+C:\Users\ASUS\Documents\MY  FILES\SCHOOL FILES\new\PROJECT LEADS\Desktop Apps\LogicTrainer_App\LogicTrainer_App\obj\Debug\Pages2\AboutPage.baml
+C:\Users\ASUS\Documents\MY  FILES\SCHOOL FILES\new\PROJECT LEADS\Desktop Apps\LogicTrainer_App\LogicTrainer_App\obj\Debug\Pages2\HomePage.baml
+C:\Users\ASUS\Documents\MY  FILES\SCHOOL FILES\new\PROJECT LEADS\Desktop Apps\LogicTrainer_App\LogicTrainer_App\obj\Debug\Pages\AndGatePage.baml
+C:\Users\ASUS\Documents\MY  FILES\SCHOOL FILES\new\PROJECT LEADS\Desktop Apps\LogicTrainer_App\LogicTrainer_App\obj\Debug\Pages\ExNorGatePage.baml
+C:\Users\ASUS\Documents\MY  FILES\SCHOOL FILES\new\PROJECT LEADS\Desktop Apps\LogicTrainer_App\LogicTrainer_App\obj\Debug\Pages\ExOrGatePage.baml
+C:\Users\ASUS\Documents\MY  FILES\SCHOOL FILES\new\PROJECT LEADS\Desktop Apps\LogicTrainer_App\LogicTrainer_App\obj\Debug\Pages\NandGatePage.baml
+C:\Users\ASUS\Documents\MY  FILES\SCHOOL FILES\new\PROJECT LEADS\Desktop Apps\LogicTrainer_App\LogicTrainer_App\obj\Debug\Pages\NorGatePage.baml
+C:\Users\ASUS\Documents\MY  FILES\SCHOOL FILES\new\PROJECT LEADS\Desktop Apps\LogicTrainer_App\LogicTrainer_App\obj\Debug\Pages\NotGatePage.baml
+C:\Users\ASUS\Documents\MY  FILES\SCHOOL FILES\new\PROJECT LEADS\Desktop Apps\LogicTrainer_App\LogicTrainer_App\obj\Debug\Pages\OrGatePage.baml
+C:\Users\ASUS\Documents\MY  FILES\SCHOOL FILES\new\PROJECT LEADS\Desktop Apps\LogicTrainer_App\LogicTrainer_App\obj\Debug\LogicTrainer_App.g.resources
+C:\Users\ASUS\Documents\MY  FILES\SCHOOL FILES\new\PROJECT LEADS\Desktop Apps\LogicTrainer_App\LogicTrainer_App\obj\Debug\LogicTrainer_App.Properties.Resources.resources
+C:\Users\ASUS\Documents\MY  FILES\SCHOOL FILES\new\PROJECT LEADS\Desktop Apps\LogicTrainer_App\LogicTrainer_App\obj\Debug\LogicTrainer_App.csproj.GenerateResource.cache
+C:\Users\ASUS\Documents\MY  FILES\SCHOOL FILES\new\PROJECT LEADS\Desktop Apps\LogicTrainer_App\LogicTrainer_App\obj\Debug\LogicTrainer_App.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Documents\MY  FILES\SCHOOL FILES\new\PROJECT LEADS\Desktop Apps\LogicTrainer_App\LogicTrainer_App\obj\Debug\LogicTrainer_App.TrustInfo.xml
+C:\Users\ASUS\Documents\MY  FILES\SCHOOL FILES\new\PROJECT LEADS\Desktop Apps\LogicTrainer_App\LogicTrainer_App\obj\Debug\LogicTrainer_App.exe.manifest
+C:\Users\ASUS\Documents\MY  FILES\SCHOOL FILES\new\PROJECT LEADS\Desktop Apps\LogicTrainer_App\LogicTrainer_App\obj\Debug\LogicTrainer_App.application
+C:\Users\ASUS\Documents\MY  FILES\SCHOOL FILES\new\PROJECT LEADS\Desktop Apps\LogicTrainer_App\LogicTrainer_App\obj\Debug\LogicTrainer_App.csproj.CopyComplete
+C:\Users\ASUS\Documents\MY  FILES\SCHOOL FILES\new\PROJECT LEADS\Desktop Apps\LogicTrainer_App\LogicTrainer_App\obj\Debug\LogicTrainer_App.exe
+C:\Users\ASUS\Documents\MY  FILES\SCHOOL FILES\new\PROJECT LEADS\Desktop Apps\LogicTrainer_App\LogicTrainer_App\obj\Debug\LogicTrainer_App.pdb
+C:\Users\user\OneDrive\Desktop\LogicTrainer_App\LogicTrainer_App\obj\Debug\LogicTrainer_App.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Desktop\LogicTrainer_App\LogicTrainer_App\obj\Debug\Assets\Icons.baml
+C:\Users\user\OneDrive\Desktop\LogicTrainer_App\LogicTrainer_App\obj\Debug\MyStyles\MainStyle.baml
+C:\Users\user\OneDrive\Desktop\LogicTrainer_App\LogicTrainer_App\obj\Debug\Themes\DarkTheme.baml
+C:\Users\user\OneDrive\Desktop\LogicTrainer_App\LogicTrainer_App\obj\Debug\Themes\LightTheme.baml
+C:\Users\user\OneDrive\Desktop\LogicTrainer_App\LogicTrainer_App\obj\Debug\Controls\PopLeft.g.cs
+C:\Users\user\OneDrive\Desktop\LogicTrainer_App\LogicTrainer_App\obj\Debug\Controls\PopRight.g.cs
+C:\Users\user\OneDrive\Desktop\LogicTrainer_App\LogicTrainer_App\obj\Debug\Controls\UserPopup.g.cs
+C:\Users\user\OneDrive\Desktop\LogicTrainer_App\LogicTrainer_App\obj\Debug\MainWindow.g.cs
+C:\Users\user\OneDrive\Desktop\LogicTrainer_App\LogicTrainer_App\obj\Debug\MyControls\GreenLedLight.g.cs
+C:\Users\user\OneDrive\Desktop\LogicTrainer_App\LogicTrainer_App\obj\Debug\MyControls\LedsLight.g.cs
+C:\Users\user\OneDrive\Desktop\LogicTrainer_App\LogicTrainer_App\obj\Debug\MyControls\RedLedLight.g.cs
+C:\Users\user\OneDrive\Desktop\LogicTrainer_App\LogicTrainer_App\obj\Debug\MyControls\Switches.g.cs
+C:\Users\user\OneDrive\Desktop\LogicTrainer_App\LogicTrainer_App\obj\Debug\MyControls\Switches_2.g.cs
+C:\Users\user\OneDrive\Desktop\LogicTrainer_App\LogicTrainer_App\obj\Debug\Pages2\AboutPage.g.cs
+C:\Users\user\OneDrive\Desktop\LogicTrainer_App\LogicTrainer_App\obj\Debug\Pages2\HomePage.g.cs
+C:\Users\user\OneDrive\Desktop\LogicTrainer_App\LogicTrainer_App\obj\Debug\Pages\AndGatePage.g.cs
+C:\Users\user\OneDrive\Desktop\LogicTrainer_App\LogicTrainer_App\obj\Debug\Pages\ExNorGatePage.g.cs
+C:\Users\user\OneDrive\Desktop\LogicTrainer_App\LogicTrainer_App\obj\Debug\Pages\ExOrGatePage.g.cs
+C:\Users\user\OneDrive\Desktop\LogicTrainer_App\LogicTrainer_App\obj\Debug\Pages\NandGatePage.g.cs
+C:\Users\user\OneDrive\Desktop\LogicTrainer_App\LogicTrainer_App\obj\Debug\Pages\NorGatePage.g.cs
+C:\Users\user\OneDrive\Desktop\LogicTrainer_App\LogicTrainer_App\obj\Debug\Pages\NotGatePage.g.cs
+C:\Users\user\OneDrive\Desktop\LogicTrainer_App\LogicTrainer_App\obj\Debug\Pages\OrGatePage.g.cs
+C:\Users\user\OneDrive\Desktop\LogicTrainer_App\LogicTrainer_App\obj\Debug\App.g.cs
+C:\Users\user\OneDrive\Desktop\LogicTrainer_App\LogicTrainer_App\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\user\OneDrive\Desktop\LogicTrainer_App\LogicTrainer_App\obj\Debug\LogicTrainer_App_MarkupCompile.cache
+C:\Users\user\OneDrive\Desktop\LogicTrainer_App\LogicTrainer_App\obj\Debug\LogicTrainer_App_MarkupCompile.lref
+C:\Users\user\OneDrive\Desktop\LogicTrainer_App\LogicTrainer_App\obj\Debug\App.baml
+C:\Users\user\OneDrive\Desktop\LogicTrainer_App\LogicTrainer_App\obj\Debug\Controls\PopLeft.baml
+C:\Users\user\OneDrive\Desktop\LogicTrainer_App\LogicTrainer_App\obj\Debug\Controls\PopRight.baml
+C:\Users\user\OneDrive\Desktop\LogicTrainer_App\LogicTrainer_App\obj\Debug\Controls\UserPopup.baml
+C:\Users\user\OneDrive\Desktop\LogicTrainer_App\LogicTrainer_App\obj\Debug\MainWindow.baml
+C:\Users\user\OneDrive\Desktop\LogicTrainer_App\LogicTrainer_App\obj\Debug\MyControls\GreenLedLight.baml
+C:\Users\user\OneDrive\Desktop\LogicTrainer_App\LogicTrainer_App\obj\Debug\MyControls\LedsLight.baml
+C:\Users\user\OneDrive\Desktop\LogicTrainer_App\LogicTrainer_App\obj\Debug\MyControls\RedLedLight.baml
+C:\Users\user\OneDrive\Desktop\LogicTrainer_App\LogicTrainer_App\obj\Debug\MyControls\Switches.baml
+C:\Users\user\OneDrive\Desktop\LogicTrainer_App\LogicTrainer_App\obj\Debug\MyControls\Switches_2.baml
+C:\Users\user\OneDrive\Desktop\LogicTrainer_App\LogicTrainer_App\obj\Debug\Pages2\AboutPage.baml
+C:\Users\user\OneDrive\Desktop\LogicTrainer_App\LogicTrainer_App\obj\Debug\Pages2\HomePage.baml
+C:\Users\user\OneDrive\Desktop\LogicTrainer_App\LogicTrainer_App\obj\Debug\Pages\AndGatePage.baml
+C:\Users\user\OneDrive\Desktop\LogicTrainer_App\LogicTrainer_App\obj\Debug\Pages\ExNorGatePage.baml
+C:\Users\user\OneDrive\Desktop\LogicTrainer_App\LogicTrainer_App\obj\Debug\Pages\ExOrGatePage.baml
+C:\Users\user\OneDrive\Desktop\LogicTrainer_App\LogicTrainer_App\obj\Debug\Pages\NandGatePage.baml
+C:\Users\user\OneDrive\Desktop\LogicTrainer_App\LogicTrainer_App\obj\Debug\Pages\NorGatePage.baml
+C:\Users\user\OneDrive\Desktop\LogicTrainer_App\LogicTrainer_App\obj\Debug\Pages\NotGatePage.baml
+C:\Users\user\OneDrive\Desktop\LogicTrainer_App\LogicTrainer_App\obj\Debug\Pages\OrGatePage.baml
+C:\Users\user\OneDrive\Desktop\LogicTrainer_App\LogicTrainer_App\obj\Debug\LogicTrainer_App.g.resources
+C:\Users\user\OneDrive\Desktop\LogicTrainer_App\LogicTrainer_App\obj\Debug\LogicTrainer_App.Properties.Resources.resources
+C:\Users\user\OneDrive\Desktop\LogicTrainer_App\LogicTrainer_App\obj\Debug\LogicTrainer_App.csproj.GenerateResource.cache
+C:\Users\user\OneDrive\Desktop\LogicTrainer_App\LogicTrainer_App\obj\Debug\LogicTrainer_App.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Desktop\LogicTrainer_App\LogicTrainer_App\obj\Debug\LogicTrainer_App.TrustInfo.xml
+C:\Users\user\OneDrive\Desktop\LogicTrainer_App\LogicTrainer_App\obj\Debug\LogicTrainer_App.exe
+C:\Users\user\OneDrive\Desktop\LogicTrainer_App\LogicTrainer_App\obj\Debug\LogicTrainer_App.pdb
