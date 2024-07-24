@@ -65,22 +65,22 @@
                                 <ImageBrush ImageSource="Images/lefanal.png"/>
                             </Ellipse.Fill>
                         </Ellipse>
-                       
-                            <Label Content="Beacon" Foreground="{DynamicResource PrimaryTextColor}" FontSize="14" Margin="5,5,0,0"
+
+                        <Label Content="Beacon" Foreground="{DynamicResource PrimaryTextColor}" FontSize="14" Margin="5,5,0,0"
                                    FontWeight="SemiBold" HorizontalContentAlignment="Center" HorizontalAlignment="Left"/>
-                        
+
                     </StackPanel>
 
 
                     <StackPanel Grid.Row="3" VerticalAlignment="Center" Orientation="Horizontal" Width="200" Margin="15 0 0 0">
-                        
+
                         <ToggleButton x:Name="Themes"
                               IsChecked="False"
                               Click="Themes_Click"
                               Style="{DynamicResource ToggleButtonStyle}"/>
                         <Label Content="Themes" Foreground="{DynamicResource PrimaryTextColor}" Margin="5,0,0,0"
                                    FontSize="14" FontWeight="Normal" HorizontalContentAlignment="Right" HorizontalAlignment="Right"/>
-                        
+
                     </StackPanel>
                 </Grid>
             </Border>
@@ -90,15 +90,18 @@
             <Grid Grid.Column="1">
                 <Grid.RowDefinitions>
                     <RowDefinition Height="60"/>
-                    <RowDefinition Height="70"/>
-                    <RowDefinition/>
+                    <RowDefinition Height="29.849"/>
+                    <RowDefinition Height="40.151"/>
+                    <RowDefinition Height="293*"/>
+                    <RowDefinition Height="219*"/>
+                    <RowDefinition Height="58*"/>
                 </Grid.RowDefinitions>
 
                 <!-- Start: Button Close | Restore | Minimize -->
-                <StackPanel Grid.Row="0" Grid.Column="4" HorizontalAlignment="Right" VerticalAlignment="Top" 
-                            Margin="0,5,10,0" Height="30"  Orientation="Horizontal" FlowDirection="RightToLeft">
+                <StackPanel Grid.Row="0" HorizontalAlignment="Right" VerticalAlignment="Top" 
+                            Margin="0,5,30,0" Height="30"  Orientation="Horizontal" FlowDirection="RightToLeft">
                     <Button x:Name="btnClose" Style="{StaticResource IIconButtonsStyle}" Content="{DynamicResource close}" Click="btnClose_Click" Tag="IsCloseButton"/>
-                    <Button x:Name="btnRestore" Margin="5,0" Click="btnRestore_Click">
+                    <!--<Button x:Name="btnRestore" Margin="5,0" Click="btnRestore_Click">
                         <Button.Style>
                             <Style TargetType="{x:Type Button}" BasedOn="{StaticResource IIconButtonsStyle}">
                                 <Setter Property="Content" Value="{DynamicResource maximize}"/>
@@ -109,13 +112,13 @@
                                 </Style.Triggers>
                             </Style>
                         </Button.Style>
-                    </Button>
-                    <Button x:Name="btnMinimize" Style="{DynamicResource IIconButtonsStyle}" Content="{DynamicResource minimize}" Click="btnMinimize_Click"/>
+                    </Button>-->
+                    <Button Margin="0,0" x:Name="btnMinimize" Style="{DynamicResource IIconButtonsStyle}" Content="{DynamicResource minimize}" Click="btnMinimize_Click"/>
                 </StackPanel>
                 <!-- End: Button Close | Restore | Minimize -->
 
-                <StackPanel Grid.Row="1" Orientation="Horizontal">
-                   
+                <StackPanel Grid.Row="1" Orientation="Horizontal" Grid.RowSpan="2">
+
                     <materialDesign:Card Margin="10,0,0,0"  Width="140" Height="40" UniformCornerRadius="20" Background="{DynamicResource PrimaryCardColor}">
                         <Button  Width="120" Height="30"  x:Name="NotG" Style="{DynamicResource MenuButtonStyle}" Click="NotG_Click">
                             <StackPanel Orientation="Horizontal">
@@ -159,7 +162,8 @@
                     </materialDesign:Card>
                     <materialDesign:Card Margin="15,0,0,0"  Width="140" Height="40" UniformCornerRadius="20" Background="{DynamicResource PrimaryCardColor}">
                         <Button x:Name="ExOrG" Width="120" Height="30" Style="{DynamicResource MenuButtonStyle}"  Click="ExOrG_Click">
-                            <StackPanel Orientation="Horizontal">                                <Image Source="Icons/XOR2.png"/>
+                            <StackPanel Orientation="Horizontal">
+                                <Image Source="Icons/XOR2.png"/>
                                 <TextBlock Text="EXOR GATE"/>
                             </StackPanel>
                         </Button>
@@ -173,18 +177,18 @@
                         </Button>
                     </materialDesign:Card>
 
-                    <materialDesign:Card UniformCornerRadius="20" Margin="30,0,0,0" Content="Fanal" FontSize="16" FontWeight="Heavy" Foreground="LightCyan" Height="30"/>
+                    
                 </StackPanel>
 
 
-                <Border Grid.Row="2" Margin="10">
+                <Border Grid.Row="3" Margin="10,10,10,10" Grid.RowSpan="3">
                     <Frame x:Name="PagesNavigation" NavigationUIVisibility="Hidden" Margin="0,0,233,0">
                         <!-- Page Content -->
                     </Frame>
 
                 </Border>
 
-                <StackPanel x:Name="stackbox" Orientation="Vertical" Width="70" Height="100" Grid.Row="2" HorizontalAlignment="Right" Margin="0,285,52,185">
+                <StackPanel x:Name="stackbox" Orientation="Vertical" Width="70" Height="100" Grid.Row="3" HorizontalAlignment="Right" Margin="0,285,52,127" Grid.RowSpan="2">
                     <TextBox x:Name="tt1" Width="40" />
                     <TextBox x:Name="tt2" Width="40" />
                     <TextBox x:Name="tt3" Width="40" />
@@ -192,7 +196,7 @@
                 </StackPanel>
 
                 <StackPanel Orientation="Horizontal" Width="200" Height="108"  
-                         Grid.Row="2" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="899,159,0,0" >
+                         Grid.Row="3" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="859,159,0,0" >
                     <DataGrid x:Name="dagrid" Background="{DynamicResource PrimaryBlueColor}" AutoGenerateColumns="False"
                    Height="100" Width="90" >
                         <DataGrid.Resources>

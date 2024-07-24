@@ -68,7 +68,7 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>vrzfkVu7fnrtKLC8U65h2LmlJI+Gvzu7S7ve3HR7+WY=</dsig:DigestValue>
+      <dsig:DigestValue>AFV8xC27gAK/z7TUtcamJ4qLVZKCbxxpI8uD37zBi+M=</dsig:DigestValue>
     </hash>
   </file>
   <file name="LogicTrainer_AppCore.dll.config" size="189">
@@ -86,7 +86,7 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>wEwQ8PN2sgz52fhdXCT0t6cRnE7UtPpf9+iLshRUxpw=</dsig:DigestValue>
+      <dsig:DigestValue>u8MdLXvDAFKRuyuJh25sQVeIWNex5P48u30qc1s3Ut8=</dsig:DigestValue>
     </hash>
   </file>
   <file name="MaterialDesignColors.dll" size="303104">

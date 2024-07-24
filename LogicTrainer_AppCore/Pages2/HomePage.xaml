@@ -6,7 +6,7 @@
       xmlns:local="clr-namespace:LogicTrainer_App.Pages2"
       xmlns:hc="https://handyorg.github.io/handycontrol" x:Class="LogicTrainer_App.Pages2.HomePage"
       mc:Ignorable="d" 
-      d:DesignHeight="550" d:DesignWidth="900"
+      d:DesignHeight="550" d:DesignWidth="1000"
       Title="HomePage">
 
     <Border>
@@ -26,13 +26,10 @@
                 <StackPanel Grid.Column="0" HorizontalAlignment="Left" VerticalAlignment="Center" Margin="50 0 0 0">
 
                     <WrapPanel>
-                        <Path Data="{DynamicResource logo}" Margin="16 0 0 0" Stretch="Fill" Fill="{DynamicResource PrimaryBlueColor}" Width="25" Height="25" HorizontalAlignment="Left"/>
-                        <TextBlock Margin="15 0 0 0" Foreground="{DynamicResource PrimaryTextColor}" HorizontalAlignment="left" VerticalAlignment="Center" FontSize="28" FontWeight="Bold" Text="Trainer APP" />
+                        <Path Data="{DynamicResource logo}" Margin="16 0 0 0" Stretch="Fill" Fill="{DynamicResource PrimaryBlueColor}" Width="30" Height="30" HorizontalAlignment="Left"/>
+                        <TextBlock Margin="15 0 0 0" Foreground="{DynamicResource PrimaryTextColor}" HorizontalAlignment="left" VerticalAlignment="Center" FontSize="28" FontWeight="Bold" Text="Logic APP" />
                     </WrapPanel>
 
-                    <TextBlock Margin="0 30 0 15" FontSize="17" FontWeight="SemiBold" HorizontalAlignment="Left" Text="Loading Resources.."></TextBlock>
-
-                    <ProgressBar Margin="0 0 0 10" Name="progressBar" IsIndeterminate="True" Value="0" Height="5" Width="280"/>
 
                 </StackPanel>
 
